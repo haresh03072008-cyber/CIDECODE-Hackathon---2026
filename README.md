@@ -3,8 +3,6 @@
 > CIDECODE 2026 · 3rd Edition · CCITR Tech Hackathon · PES University, Bengaluru
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-00D4FF)](https://haresh03072008-cyber.github.io/CIDECODE-Hackathon---2026/)
-[![License](https://img.shields.io/badge/Data-OSINT%20Only-green)]()
-[![Compliance](https://img.shields.io/badge/IT%20Act%202000-Compliant-blue)]()
 
 ---
 
